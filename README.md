@@ -9,3 +9,4 @@
 ## Fonctionnalités
 - Système de score
 - Leaderboard top 10 sauvegardé
+- Pseudos
